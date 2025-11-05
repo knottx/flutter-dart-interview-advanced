@@ -2,6 +2,10 @@
 
 A comprehensive technical interview question bank for evaluating senior Flutter and Dart developers.
 
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
+![Level](https://img.shields.io/badge/Level-Senior-green)
+
 ## Contents
 
 - **[Senior Questions](senior_questions.md)** - 38 architecture and design questions covering:
